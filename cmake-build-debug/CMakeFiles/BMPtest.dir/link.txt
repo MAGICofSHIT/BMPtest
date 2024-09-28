@@ -1,0 +1,3 @@
+"D:\INSTALLATIONS\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\BMPtest.dir/objects.a
+"D:\INSTALLATIONS\CLion 2024.2.2\bin\mingw\bin\ar.exe" qc CMakeFiles\BMPtest.dir/objects.a @CMakeFiles\BMPtest.dir\objects1.rsp
+"D:\INSTALLATIONS\CLion 2024.2.2\bin\mingw\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\BMPtest.dir/objects.a -Wl,--no-whole-archive -o BMPtest.exe -Wl,--out-implib,libBMPtest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BMPtest.dir\linkLibs.rsp

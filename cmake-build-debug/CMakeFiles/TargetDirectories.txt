@@ -1,3 +1,4 @@
-D:/CLion Project/BMPtest/cmake-build-debug/CMakeFiles/BMPtest.dir
-D:/CLion Project/BMPtest/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CLion Project/BMPtest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Programing/Clion Projects/BMPtest/cmake-build-debug/CMakeFiles/BMPtest.dir
+D:/Programing/Clion Projects/BMPtest/cmake-build-debug/CMakeFiles/test.dir
+D:/Programing/Clion Projects/BMPtest/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programing/Clion Projects/BMPtest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
